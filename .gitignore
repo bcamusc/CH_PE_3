@@ -1,0 +1,22 @@
+# --- Variables de entorno (nunca subir claves) ---
+.env
+
+# --- Entorno virtual ---
+.venv/
+venv/
+
+# --- Base vectorial persistida (se regenera con: python ingest.py) ---
+vectorstore/
+
+# --- Python ---
+__pycache__/
+*.pyc
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- Sistema ---
+.DS_Store
+Thumbs.db
+# --- Referencias ----
+v_RAG_Local_—_Notebook_paso_a_paso.ipynb

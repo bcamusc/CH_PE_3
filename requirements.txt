@@ -1,0 +1,15 @@
+# Dependencias del sistema RAG (Pre-entrega 3)
+# Instalar con:  pip install -r requirements.txt
+
+langchain
+langchain-community
+langchain-core
+langchain-chroma
+langchain-google-genai
+langchain-huggingface
+langchain-text-splitters
+sentence-transformers
+chromadb
+pydantic
+python-dotenv
+tiktoken
